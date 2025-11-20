@@ -1,0 +1,39 @@
+# Qt Creator / qmake build artifacts
+build*/
+*.pro.user
+*.qbs.user
+*.qmlproject.user
+
+# Visual Studio intermediate files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+*.aps
+*.pch
+*.ncb
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+
+# Generated binaries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Qt deployment output
+release/
+debug/
+install/
+
+# OS specific noise
+.vs/
+*.log
+Thumbs.db
+Desktop.ini
+
