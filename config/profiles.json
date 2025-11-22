@@ -1,0 +1,19 @@
+{
+  "profiles": [
+    {
+      "name": "Localhost",
+      "editorHost": "127.0.0.1",
+      "editorPort": 45454,
+      "runnerHost": "127.0.0.1",
+      "runnerPort": 45455
+    },
+    {
+      "name": "Remote Example",
+      "editorHost": "192.168.1.10",
+      "editorPort": 45454,
+      "runnerHost": "192.168.1.11",
+      "runnerPort": 45455
+    }
+  ]
+}
+

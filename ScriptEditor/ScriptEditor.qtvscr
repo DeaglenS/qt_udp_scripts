@@ -1,0 +1,425 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-11-22 11:45:08",
+  "files": {
+    "C:\\Users\\CLEAR\\Desktop\\work\\TestProjects\\qt_udp_scripts\\ScriptEditor\\ScriptEditor.vcxproj": {
+      "before": "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",
+      "after": "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"
+    },
+    "C:\\Users\\CLEAR\\Desktop\\work\\TestProjects\\qt_udp_scripts\\ScriptEditor\\ScriptEditor.vcxproj.user": {
+      "before": "XY5NDoIwGERZk3iHpnvbgj9RArjQxLgTY1yRGC1FMLQfaQvRG3sMi8aN2zczL/PyPC9ePWSDeqFNDSrBAWEYCcWhqNUtwZ0txwu8Skd+vNdwF9yiI0BjTr/+utNaKIuRsyiT4MraNqLU8ErIiyGy5hoMlJZwkLQQvWigFZpKc+3qpqAhYxPs7AgNfpfY51ZD136Qg9lxszuk6yjPbD4jwYywXJqehyxYnufTmH7zz57+C+KBDJedbOS/AQ==",
+      "after": "XY5NCsIwGES7FrxDyN4k9Q+Vti4UxJ1KcVUQTaNGknwlSYve14OYVty4fTPzmHcURcnyqRVqhHUSTIpjwjAShkMpzS3Ftb8OZniZ9XvJzsJDcI9yAOWOv/6qtlYYj1GwGJfiu/fVglLH70KfHdGSW3Bw9YSDpqVohIJKWKrdpZaqpEPGRjjYEWr9IfGvjYW66lCA+3y9PWSrRbH3xYTEE8IK7Ro+ZPH8NB0n9Jt3e/ovSFrSXs4+"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-11-22 11:45:08</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj.user?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>$]]></Span><Span><![CDATA[(ProjectDir);$(ProjectDir)..\core;$(ProjectDir)..\network;$(Qt5Core_DIR)..\..\include;$(Qt5Core_DIR)..\..\include\QtCore;$(Qt5Gui_DIR)..\..\include\QtGui;$(Qt5Widgets_DIR)..\..\include\QtWidgets;$(Qt5Network_DIR)..\..\include\QtNetwork;$(QTDIR)\include;$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$]]></Span><Span><![CDATA[(ProjectDir);$(ProjectDir)..\core;$(ProjectDir)..\network;$(Qt5Core_DIR)..\..\include;$(Qt5Core_DIR)..\..\include\QtCore;$(Qt5Gui_DIR)..\..\include\QtGui;$(Qt5Widgets_DIR)..\..\include\QtWidgets;$(Qt5Network_DIR)..\..\include\QtNetwork;$(QTDIR)\include;$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>$]]></Span><Span><![CDATA[(ProjectDir);$(ProjectDir)..\core;$(ProjectDir)..\network;$(Qt5Core_DIR)..\..\include;$(Qt5Core_DIR)..\..\include\QtCore;$(Qt5Gui_DIR)..\..\include\QtGui;$(Qt5Widgets_DIR)..\..\include\QtWidgets;$(Qt5Network_DIR)..\..\include\QtNetwork;$(QTDIR)\include;$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$]]></Span><Span><![CDATA[(ProjectDir);$(ProjectDir)..\core;$(ProjectDir)..\network;$(Qt5Core_DIR)..\..\include;$(Qt5Core_DIR)..\..\include\QtCore;$(Qt5Gui_DIR)..\..\include\QtGui;$(Qt5Widgets_DIR)..\..\include\QtWidgets;$(Qt5Network_DIR)..\..\include\QtNetwork;$(QTDIR)\include;$(QTDIR)\include\QtCore;$(QTDIR)\include\QtGui;$(QTDIR)\include\QtWidgets;$(QTDIR)\include\QtNetwork;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\CLEAR\Desktop\work\TestProjects\qt_udp_scripts\ScriptEditor\ScriptEditor.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--MStyS8OUmYli2S0ym5yOs0hNPQYEQ22E4UMRjKt20aw=-->
